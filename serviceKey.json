@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "peerdrop-dev-7aaf9",
+  "private_key_id": "e483a955231163fa90d2263893f58a535a7bfc19",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCh78F5j8ZJPsuH\nC+IGD+6b1oVAFucTdtApIhDQ5Er0E78j0h1HV521a0x6JZaOPhGU1WzCGjbxGFdY\nrtFMYaAeuJqI9Uxz252fSoiuy3jFrhFk3hMU1rXyl27qejYFlL2E36SAVd417jVm\nrdKa0CvQTHrZYZhz1yw6hQhHhNaETpmRjmxkgkSNeZpaTitC0ZvfGrH+b75MqNKh\nL5OnPfA8BZ8DJ3ahrnLHydQGXFdi0Kmh+oXHXrPI+5emk6LCTjQ7XGtkvB55Wmbc\nhIeFjpcSMyCd9jdXf4nmXlmVg/uFo/6eayzn6YqmdWB2xtObJK2m76mqWnRL9cFz\nuzfWV3V3AgMBAAECggEABgU4X7EZMZrsjSpDbm9EMzYAATh4wc/+gDD8iA+cu8NK\nLWY/4Wmf+uEw2C+yj7o+BBcFMpgv57m8cZcaP+k3Pz0kvafE/l+xVf065Ki65jqI\n+gOJmRI8dHbt0DjX7lAv1ZNM9dp7Zuzivl0DAe9wWY+mV5OZy+C5i7lra+FD6mpE\nhp8qyLI5E6gNmX80J0/p4QG1uvcCPd6ifWa954eCWNThqh3xT6Q/ufK6B3ZBhxjt\ndqCTcLPiTLjMyhMCFDicu7erubNYSw7KQ+CnmY6AANzjD5RnjqQXuqKqjUez6RWG\n3BqRuPML5FpYOe29uTG/Zk9ibGMa+bCTLuYHX8s2oQKBgQDMT1Wx3pSlLDXnHdQ+\nrRAamo6rCMoms5NlTpxcPm7wzDyxgphYDB/WtfpyI4o4mF9k91B/xR/JNdaIYTJi\n8UkDXTZvqeEA0VOZtLnmiIWzRfkVzlp804bEWN+8hZmSjqkKc7PiWQgU0J2o9O/k\nsRcj8+N+saNwd48rCmXn9eFFVwKBgQDK5//y6Cqw/dsTygZHuv7lxj65ZoShpRMT\n57+Ta8/nZIS9EM6kHiPfqR0wKy7lphfmn9aDU5ZiwyaU+/VGaWcDwjXNWwadbh/7\n5LarDYUgmC07WzIevw6jv8fujHKqBlOwsvHwF4wA54WY50lxNM/1Lbzr5tmmSZmB\ntzgt59wc4QKBgBjKR4udhkvEYYX5iJdSSHHx7v2xw1WO1IOmVjKbILr3DSY8wl9s\nmTBkRE81IMBdPLXzjED0mja/4ZgKsyJuRH20Abbq1fJTc+FinGvshMyL4P1UXIZo\n5CFO51bonwm5ZalvAJSmWOStq3OkxLbrBfPG1AO7ailrWGPQjyzmGL9hAoGAaXIL\nlyaEGRqzoSMaBGjvUmWl7x+RyZdJxMxoyKn8j1mzibWUTcHEDtWJ76BhbMLWJOnn\nxrPHsWeNQ1t06bSY7mEdKK0nUOUMBhGjxFzwVDIBP5lzAHt1li9yLUwbwrQrBebY\nyFbUURwAV6fKiORTNi0gws9jSIFzHvAiZ+jYgMECgYABnkN6K6oe5VifZC5fmKx2\ndE6reA0/EBLY2pRkwbRndTqfF7xJGvzmu4JLIzw95XwX2CCyZlvYplVeL0cGIaYQ\nBw91CEIdo7J4K1LRpvI+oFnFxASiFFa2f+ciirZlb96SKLty2cSDlfe/g/6/t62+\nS3StXtuAcyYoBCiBmQkYyw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-yemhp@peerdrop-dev-7aaf9.iam.gserviceaccount.com",
+  "client_id": "108900445932019895601",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-yemhp%40peerdrop-dev-7aaf9.iam.gserviceaccount.com"
+}
